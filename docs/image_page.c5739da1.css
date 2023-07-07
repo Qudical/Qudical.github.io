@@ -1,0 +1,2 @@
+body,html{background-color:#000;height:100%;width:100%;margin:0}.image,.image-pixel{display:block;margin-left:auto;margin-right:auto;height:calc(100% - 40px);width:auto;padding:20px}.image-pixel,.street{image-rendering:pixelated}.street{display:block;margin:auto;height:440px;width:auto;padding:20px}@media screen and (max-height:440px){.street{max-height:calc(100% - 40px)}}.image-box{height:100%;width:100%;display:flex;justify-content:center}audio{display:none}
+/*# sourceMappingURL=/image_page.c5739da1.css.map */
