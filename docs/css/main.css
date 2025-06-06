@@ -155,10 +155,7 @@ p {
 
 iframe {
     width: 100%;
-    height: auto;
-    border: none;
-    border-radius: 10px;
-    box-shadow: 0 0 4px 2px #00000066;
+    height: 200px;
 }
 
 .youtube {
@@ -176,6 +173,12 @@ iframe {
 
     .youtube {
         height: 56vw;
+    }
+}
+
+@media (min-width: 1920px) {
+    .youtube {
+        height: 518px;
     }
 }
 
