@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Karrik';
     src: url('../fnt/Karrik-Regular.woff2') format('woff');
+    font-display: swap;
 }
 
 html, body {
